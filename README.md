@@ -1,4 +1,5 @@
-Smart-Board-Sensors
-===================
+# Smart-Board-Sensors
 
-#SBS
+Coming soon ...
+
+[Domotique-Info](http://domotique-info.fr/2014/03/smart-board-sensors-sbs/)
